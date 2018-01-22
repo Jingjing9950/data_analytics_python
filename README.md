@@ -1,1 +1,1 @@
-# data_analytics_python
+# foundations for data anlytics with python
